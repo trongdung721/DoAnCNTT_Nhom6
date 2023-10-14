@@ -20,7 +20,7 @@ Sẽ có **2 đối tượng chính** sử dụng website: **admin** (người q
 - Trong lược đồ này gồm các đối tượng thực thể như: **User** (gồm Admin và Customer), **Product**, **Order**, **Receipt**, **Review**,...
 ![image](https://github.com/trongdung721/Selling_Fashion_Online/assets/90029952/be93fa51-1828-4c36-beb0-77ffc2bfe2b3)
 ## 4. Tecnincal:
-- [**Jakarta Server Pages**]
+- [**Jakarta Server Pages**](https://jakarta.ee/specifications/pages/3.0/)
 - [**Java Servlet API**](https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api)
 - [**JSTL**](https://mvnrepository.com/artifact/javax.servlet/jstl/1.2)
 - Library management:
