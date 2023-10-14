@@ -19,7 +19,22 @@ Sẽ có **2 đối tượng chính** sử dụng website: **admin** (người q
 ## 3. Lược đồ quan hệ tổng quát:
 - Trong lược đồ này gồm các đối tượng thực thể như: **User** (gồm Admin và Customer), **Product**, **Order**, **Receipt**, **Review**,...
 ![image](https://github.com/trongdung721/Selling_Fashion_Online/assets/90029952/be93fa51-1828-4c36-beb0-77ffc2bfe2b3)
-
+## 4. Tecnincal:
+- [**Jakarta Server Pages**]
+- [**Java Servlet API**](https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api)
+- [**JSTL**](https://mvnrepository.com/artifact/javax.servlet/jstl/1.2)
+- Library management:
+	+ [**Maven apache**](https://maven.apache.org/)
+- IDE: 
+	+ [**IntelliJ IDEA**](https://www.jetbrains.com/idea/)
+- Front-end framework:	
+	+ [**Bootstrap**](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+	+ [**JQuery**](https://releases.jquery.com/)
+	+ [**Sass/Scss**](https://sass-lang.com/)
+- Database management:
+	+ [**MySql**](https://www.mysql.com/)
+	+ [**MySql Workbench**](https://dev.mysql.com/downloads/workbench/)
+	
 # File báo cáo chi tiết đồ án:
          (Report in progress)
 👉👉👉Link to access file: ....
