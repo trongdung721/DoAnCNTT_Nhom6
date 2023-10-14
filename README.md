@@ -16,3 +16,10 @@ Sẽ có **2 đối tượng chính** sử dụng website: **admin** (người q
    - Quản lý cửa hàng: thêm, sửa, xóa thông tin của các sản phẩm.
    - Quản lý khách hàng: thêm, sửa, xóa, xem thông tin khách hàng (thông tin tài khoản, thông tin mua hàng, thông tin đăng nhập,...)
    - Xem và trả lời hỗ trợ các tin nhắn mà khách hàng nhắn tin về cho cửa hàng.
+## 3. Lược đồ quan hệ tổng quát:
+- Trong lược đồ này gồm các đối tượng thực thể như: **User** (gồm Admin và Customer), **Product**, **Order**, **Receipt**, **Review**,...
+![image](https://github.com/trongdung721/Selling_Fashion_Online/assets/90029952/be93fa51-1828-4c36-beb0-77ffc2bfe2b3)
+
+# File báo cáo chi tiết đồ án:
+         (Report in progress)
+👉👉👉Link to access file: ....
