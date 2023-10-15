@@ -31,6 +31,7 @@ Sẽ có **2 đối tượng chính** sử dụng website: **admin** (người q
 - Front-end framework:	
 	+ [**Bootstrap**](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 	+ [**JQuery**](https://releases.jquery.com/)
+ 	+ [**AJax**](https://api.jquery.com/jquery.ajax/)	
 	+ [**Sass/Scss**](https://sass-lang.com/)
 - Database management:
 	+ [**MySql**](https://www.mysql.com/)
