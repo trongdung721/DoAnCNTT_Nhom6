@@ -4,7 +4,7 @@
 ## 2. Đặc tả đồ án:
 Sẽ có **2 đối tượng chính** sử dụng website: **admin** (người quản lý cửa hàng, website) và **khách hàng** (người mua hàng trên website)
 
-1.🕵️**Đối với admin**
+1. 🕵️**Đối với admin**
    - Login hệ thống toàn quyền với tài khoản Admin	
    - Manage profile: Quản lý thông tin cá nhân và thay đổi nếu cần thiết
    - Manage customer’s information: Thêm, sửa, xóa, xem thông tin khách hàng (thông tin tài khoản, thông tin mua hàng, thông tin đăng nhập,...) 
