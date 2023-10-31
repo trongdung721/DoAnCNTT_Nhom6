@@ -3,6 +3,7 @@
 - Cùng với sự phát triển mạnh mẽ của mạng xã hội và nhu cầu mua sắm online ngày càng tăng thì những trang web bán hàng online ngày càng được chú trọng và phát triển. Chính vì thế, nhóm chúng em chọn đồ án “**_Xây dựng website kinh doanh thời trang_**”. Website cung cấp một môi trường mua hàng với giao diện trực quan và dễ dàng sử dụng, nhiều tính năng hỗ trợ khách hàng tìm kiếm và mua những mặt hàng thời trang mà mình mong muốn. 
 ## 2. Đặc tả đồ án:
 Sẽ có **2 đối tượng chính** sử dụng website: **admin** (người quản lý cửa hàng, website) và **khách hàng** (người mua hàng trên website)
+
 1.🕵️**Đối với admin**
    - Login hệ thống toàn quyền với tài khoản Admin	
    - Manage profile: Quản lý thông tin cá nhân và thay đổi nếu cần thiết
