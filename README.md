@@ -24,12 +24,12 @@ Sẽ có **2 đối tượng chính** sử dụng website: **admin** (người q
    - View order history: Cho phép customer xem lịch sử đơn hàng và chi tiết đơn hàng đã đặt của mình
    - Review: Cho phép customer đánh giá sản phẩm của cửa hàng
    - Log out : Đăng xuất sau khi hoàn thành mua hàng và đánh giá sản phẩm
-## 3. Lược đồ quan hệ tổng quát:
-- Trong lược đồ này gồm các đối tượng thực thể như: **User** (gồm Admin và Customer), **Product**, **Order**, **Receipt**, **Review**,...
-![image](https://github.com/trongdung721/Selling_Fashion_Online/assets/90029952/7840369b-7fc8-44a6-bc26-82a1c628c3db)
+## 3. Class Diagram:
+- Trong Class Diagram này chứa các thực thể, thuộc tính và các phương thức của:**Customer**, **Product**, **Category**, **Cart**, **Review**,...
+![image](https://github.com/trongdung721/Selling_Fashion_Online/assets/90029952/902e37bd-d7de-435d-9422-6a54ad946f3c)
 
 
-## 4. Tecnincal:
+## 4. Technincal:
 - [**Jakarta Server Pages**](https://jakarta.ee/specifications/pages/3.0/)
 - [**Java Servlet API**](https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api)
 - [**JSTL**](https://mvnrepository.com/artifact/javax.servlet/jstl/1.2)
